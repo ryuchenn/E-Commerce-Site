@@ -2,18 +2,19 @@
 <div align="center">
     <img src="Common/Image/README/README1.png" alt="Title!" height="450" width="auto"/>
 </div>
-GIF will show at here
-Documentation | Demo
+- GIF will show at here
+- Documentation 
+- Demo
 
 # Introduction
 The project will show `Web`, `IOS`, `Android`, `Backend`, and `SQL` for demonstration.
 
 # Framework
-Web: `React`  ( `React@18.3.1 + react-router-dom@6.26.2 + Axios@1.7.7` )
-IOS: `Swift`
-Android: `Kotlin`
-Backend: `Node.js`
-SQL: `PostgreSQL` ( `Express@4.21.0 + Passportt@0.7.0` )
+- Web: `React`  ( `React@18.3.1 + react-router-dom@6.26.2 + Axios@1.7.7` )
+- IOS: `Swift`
+- Android: `Kotlin`
+- Backend: `Node.js`
+- SQL: `PostgreSQL` ( `Express@4.21.0 + Passportt@0.7.0` )
 
 # Features
 - Backend: API Document
@@ -28,7 +29,7 @@ Web -> Android -> IOS
 # Folder Structures
 ```
 └── E-Commerce-Site/
-    ├── Guideline_Schedule      # The schedule of this project and guideline
+    ├── 1_Guideline_Schedule      # The schedule of this project and guideline
     ├── public      # Images, Video, Text, Translation
     │   ├── images
     │   ├── translation
