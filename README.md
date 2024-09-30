@@ -10,7 +10,7 @@
 The project will show `Web`, `IOS`, `Android`, `Backend`, and `SQL` for demonstration.
 
 # Framework
-- Web: `React`  ( `React@18.3.1 + react-router-dom@6.26.2 + Axios@1.7.7` )
+- Web: `React`  ( `React@18.3.1 + react-router-dom@6.26.2 + Axios@1.7.7 + antd@5.21.1` )
 - IOS: `Swift`
 - Android: `Kotlin`
 - Backend: `Node.js`
