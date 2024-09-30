@@ -16,7 +16,7 @@ export const UserAuthCheck = async (endpoint) => {
         });
         
         // Deal with the response not 2xx 
-        if(response.status == 200 || response.status == 201){
+        if(response.status === 200 || response.status === 201){
         return response.data;
 
         }else{
